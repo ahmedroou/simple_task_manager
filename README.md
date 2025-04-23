@@ -1,24 +1,12 @@
-# README
+Simple Task Manager – A SaaS App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A lightweight task management app built with Ruby on Rails, following Agile practices such as Scrum, TDD, and BDD.
 
-Things you may want to cover:
+---
 
-* Ruby version
+ 🧩 Features
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Create, update, and delete tasks
+- Mark tasks as complete/incomplete
+- Filter tasks by status
+- Simple user interface
