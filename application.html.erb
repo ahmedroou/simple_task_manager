@@ -1,0 +1,14 @@
+<head>
+<%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+<body>
+  <nav class="navbar navbar-dark bg-dark px-3">
+    <a class="navbar-brand" href="#">Simple Task Manager</a>
+    <span class="navbar-text text-warning">
+      👑 إشراف ريهام
+    </span>
+  </nav>
+
+  <div class="container mt-4">
+    <%= yield %>
+  </div>
+</body>
